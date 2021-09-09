@@ -1,0 +1,1 @@
+gcc -o test matrix.c list.c M1M2.c main.c -Wall
